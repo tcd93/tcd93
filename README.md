@@ -1,4 +1,5 @@
-### Hi there 👋😄
+Looking for a job, reach me at [dungtang93@gmail.com](dungtang93@gmail.com)
+
 [![My github stats](https://github-readme-stats.vercel.app/api?username=tcd93&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tcd93&layout=compact&hide=shell&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
