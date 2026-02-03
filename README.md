@@ -1,4 +1,6 @@
-Looking for a job, reach me at [dungtang93@gmail.com](dungtang93@gmail.com)
+SQL Expert. Know abit of everything else.
+
+Honest advice: don't look for SQL optimization "tips" on LinkedIn. They all think SQL is an "obedient" language like C#.
 
 ![Stats](./profile/stats.svg)
 
